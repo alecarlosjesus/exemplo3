@@ -1,0 +1,19 @@
+<!Doctype html>
+<!-- Doctype é um DTD -->
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>EXEMPLO</title>
+	</head>
+	<script>
+		console.log("Hello World!");
+		console.error("Error...");
+		console.warn("Warning...");
+		console.info("Info");
+</script>
+	<body>
+		<h1>Bem vindos!</h1>
+		<h2>1TDSS-2021</h2>
+		<h3>LINS</h3>
+	</body>
+</html>
